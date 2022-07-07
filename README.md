@@ -1,2 +1,2 @@
 # food-app
-Food app built with html, css, php
+Food app built with php
